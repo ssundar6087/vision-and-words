@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "Hey there! I’m a Computer Vision and Machine Learning research engineer by day. I’m very interested in areas such as Object tracking, Computational Photography, 3D Reconstruction and Interaction (AR/VR). In my free time you can find me photographing landscapes or sitting my by computer trying to figure out Kaggle :) . .",
           "url": "https://ssundar6087.github.io/vision-and-words/about/",
           "relUrl": "/about/",
           "date": ""
