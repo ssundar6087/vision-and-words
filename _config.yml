@@ -39,7 +39,7 @@ baseurl: "/vision-and-words" # the subpath of your site, e.g. "/blog".
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: "@dsaience"
+    twitter: "dsaience"
     github: "ssundar6087"
 
 # Set this to true to get LaTeX math equation support
