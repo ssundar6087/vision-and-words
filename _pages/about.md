@@ -4,10 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Hey there! I'm a Computer Vision and Machine Learning research engineer by day. I'm very interested in areas such as Object tracking, Computational Photography, 3D Reconstruction and Interaction (AR/VR). In my free time you can find me photographing landscapes or sitting my by computer trying to figure out Kaggle :)
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+![Me](images/LR_Jokulsarlon-3-2.jpg)
